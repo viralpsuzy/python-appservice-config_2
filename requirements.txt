@@ -67,3 +67,4 @@ config-parser
 #Some More
 shap
 ip2geotools
+idna<3,>=2.5
